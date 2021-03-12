@@ -1,6 +1,6 @@
 {
     "port": 3000,
-    "address": "https://indigo-puffin-lqj26z5v.ws-us03.gitpod.io",
+    "address": "https://lavender-chinchilla-0xgja1ah.ws-us03.gitpod.io",
     "editor": "gitpod",
     "configPath": {
         "config": "bc.json",
@@ -46,7 +46,7 @@
         {
             "slug": "01-hello-world",
             "title": "01-hello-world",
-            "done": false,
+            "done": true,
             "path": "exercises/01-hello-world",
             "translations": [
                 "es",
@@ -68,7 +68,7 @@
         {
             "slug": "01.2-Retrieve-items",
             "title": "01.2-Retrieve-items",
-            "done": false,
+            "done": true,
             "path": "exercises/01.2-Retrieve-items",
             "translations": [
                 "es",
@@ -79,7 +79,7 @@
         {
             "slug": "01.3-Print-the-last-one",
             "title": "01.3-Print-the-last-one",
-            "done": false,
+            "done": true,
             "path": "exercises/01.3-Print-the-last-one",
             "translations": [
                 "es",
@@ -90,7 +90,7 @@
         {
             "slug": "01.4-Add-item-to-list",
             "title": "01.4-Add-item-to-list",
-            "done": false,
+            "done": true,
             "path": "exercises/01.4-Add-item-to-list",
             "translations": [
                 "es",
@@ -101,7 +101,7 @@
         {
             "slug": "01.5-loop-seventeen",
             "title": "01.5-loop-seventeen",
-            "done": false,
+            "done": true,
             "path": "exercises/01.5-loop-seventeen",
             "translations": [
                 "es",
@@ -123,7 +123,7 @@
         {
             "slug": "02.1-Loop-from-the-top",
             "title": "02.1-Loop-from-the-top",
-            "done": false,
+            "done": true,
             "path": "exercises/02.1-Loop-from-the-top",
             "translations": [
                 "es",
@@ -134,7 +134,7 @@
         {
             "slug": "02.2-Loop-adding-two",
             "title": "02.2-Loop-adding-two",
-            "done": false,
+            "done": true,
             "path": "exercises/02.2-Loop-adding-two",
             "translations": [
                 "es",
